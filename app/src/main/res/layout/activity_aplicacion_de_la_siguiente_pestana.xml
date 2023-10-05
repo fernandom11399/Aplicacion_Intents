@@ -48,7 +48,7 @@
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
 
-            android:text="Boton 1" />
+            android:text="Camara" />
 
         <Button
             android:id="@+id/extrovertido_dos"
@@ -58,7 +58,7 @@
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
 
-            android:text="Boton 2" />
+            android:text="Regresar" />
 
         <Button
             android:id="@+id/extrovertido_tres"
@@ -68,7 +68,7 @@
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
 
-            android:text="Boton 3" />
+            android:text="Configuración" />
 
         <Button
             android:id="@+id/extrovertido_cuatro"
@@ -78,7 +78,7 @@
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
 
-            android:text="Boton 4" />
+            android:text="Contactos" />
 
     </LinearLayout>
 
@@ -110,7 +110,7 @@
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
 
-            android:text="Boton 1" />
+            android:text="Galería" />
 
         <Button
             android:id="@+id/introvertido_dos"
@@ -120,7 +120,7 @@
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
 
-            android:text="Boton 2" />
+            android:text="URL" />
 
         <Button
             android:id="@+id/introvertido_tres"
@@ -130,7 +130,7 @@
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
 
-            android:text="Boton 3" />
+            android:text="Telefono" />
 
         <Button
             android:id="@+id/introvertido_cuatro"
@@ -140,7 +140,7 @@
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
 
-            android:text="Boton 4" />
+            android:text="Correo" />
 
     </LinearLayout>
 
